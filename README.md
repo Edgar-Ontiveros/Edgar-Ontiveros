@@ -79,8 +79,8 @@ Feel free to reach out via email or connect with me on LinkedIn.
 
 <div align="center">
 
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar-Ontiveros&show_icons=true&theme=tokyonight)
+![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar-Ontiveros&show_icons=true&theme=tokyonight&cache_seconds=1800&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Ontiveros&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Ontiveros&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 </div>
