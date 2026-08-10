@@ -8,6 +8,8 @@
 
 <sub>⚛️ Physics Engineer · Chihuahua, Mexico</sub>
 
+<br>
+
 I design, build and deploy production systems — APIs, web applications and the models inside them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Ontiveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaronti)
@@ -23,27 +25,11 @@ I build and ship production software. I design REST APIs in **FastAPI**, model r
 
 Machine learning goes in where it solves something real — forecasting, classification, similarity matching, CNNs — always served as an application people use daily, never as a notebook that stops at the analysis.
 
-Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously applied automation and production data systems in the **aerospace industry** at Safran Aerosystems.
+Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously worked on automation and production data systems in the **aerospace industry** at Safran Aerosystems.
 
 ---
 
-## 🚀 Featured Projects
-
-**[Quotation Management System](https://github.com/Edgar-Ontiveros/proyecto-cotizaciones)** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`
-Internal platform for 11 branches. Tracks quote response times in business hours across time zones, and quoted vs. confirmed revenue by branch, buyer, rep and client. Alembic migrations, background scheduler, pytest against real PostgreSQL, CI/CD with gated production deploys.
-
-**[Automated Pricing Engine](https://github.com/Edgar-Ontiveros/auto-precios)** &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`
-Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI + React, keeping the original as a parity test to guarantee identical output.
-
-**[SAP Article Code Generator](https://github.com/Edgar-Ontiveros/Generador-de-Codigos)** &nbsp;·&nbsp; `FastAPI` `scikit-learn` `RapidFuzz` `AWS EC2`
-Infers SAP code, product hierarchy, unit of measure and weight for new items from the most similar historical records. Multi-stage Docker build deployed on EC2 with persistent EBS storage and idempotent database rebuilds.
-
-**[Purchase Order Processor](https://github.com/Edgar-Ontiveros/Ordenes-Compra)** &nbsp;·&nbsp; `FastAPI` `Pydantic` `lxml` `pdfplumber`
-Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting measurement units and grouping line items. Layered architecture with a supplier-parser Protocol, pure domain functions, strict mypy typing and 97 tests.
-
----
-
-## 🛠️ Technologies
+## 🛠️ What I Work With
 
 ### Backend & APIs
 
@@ -52,7 +38,6 @@ Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting meas
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Databases
 
@@ -90,9 +75,26 @@ Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting meas
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+Systems currently running in production.
+
+**[Quotation Management System](https://github.com/Edgar-Ontiveros/proyecto-cotizaciones)** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`
+Internal platform for 11 branches. Tracks quote response times in business hours across time zones, and quoted vs. confirmed revenue by branch, buyer, rep and client. Alembic migrations, background scheduler, pytest against real PostgreSQL, CI/CD with gated production deploys.
+
+**[Automated Pricing Engine](https://github.com/Edgar-Ontiveros/auto-precios)** &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`
+Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI + React, keeping the original as a parity test to guarantee identical output.
+
+**[SAP Article Code Generator](https://github.com/Edgar-Ontiveros/Generador-de-Codigos)** &nbsp;·&nbsp; `FastAPI` `scikit-learn` `RapidFuzz` `AWS EC2`
+Infers SAP code, product hierarchy, unit of measure and weight for new items from the most similar historical records. Multi-stage Docker build deployed on EC2 with persistent EBS storage and idempotent database rebuilds.
+
+**[Purchase Order Processor](https://github.com/Edgar-Ontiveros/Ordenes-Compra)** &nbsp;·&nbsp; `FastAPI` `Pydantic` `lxml` `pdfplumber`
+Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting measurement units and grouping line items. Layered architecture with a supplier-parser Protocol, pure domain functions, strict mypy typing and 97 tests.
 
 ---
 
