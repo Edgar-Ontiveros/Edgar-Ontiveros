@@ -12,6 +12,7 @@
 
 I design, build and deploy production systems — APIs, web applications and the models inside them.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-edgar--ontiveros.com-22D3EE?style=for-the-badge&logo=safari&logoColor=black)](https://edgar-ontiveros.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Ontiveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaronti)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarontiverosfm@gmail.com)
 
@@ -115,5 +116,5 @@ Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting meas
 ---
 
 <div align="center">
-<sub>📫 Open to opportunities — reach out via <a href="mailto:edgarontiverosfm@gmail.com">email</a> or <a href="https://www.linkedin.com/in/edgaronti">LinkedIn</a>.</sub>
+<sub>📫 Open to opportunities — reach out via <a href="mailto:edgarontiverosfm@gmail.com">email</a> or <a href="https://www.linkedin.com/in/edgaronti">LinkedIn</a>, or visit my <a href="https://edgar-ontiveros.com">website</a>.</sub>
 </div>
