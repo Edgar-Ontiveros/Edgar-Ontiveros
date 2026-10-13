@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-7.43 -6.83 49.66 49.66" role="img" aria-label="Edgar Ontiveros">
+  <!-- Monograma EO· de edgar-ontiveros.com (public/favicon.svg) sobre placa del tema -->
+  <rect x="-7.43" y="-6.83" width="49.66" height="49.66" rx="10" fill="#0a0e1a" />
+  <g stroke="#22D3EE" stroke-width="3.6" fill="none">
+    <path d="M11.4 7.8H4.8v16.4h6.6M4.8 16h5.6" />
+    <circle cx="22" cy="16" r="7.2" />
+  </g>
+  <circle cx="29.4" cy="27.6" r="2.4" fill="#22D3EE" />
+</svg>

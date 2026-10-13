@@ -1,4 +1,4 @@
-<p align="center"><sub><sub>E &middot; O</sub></sub></p>
+<p align="center"><a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a></p>
 <h1 align="center">E D G A R &nbsp;&nbsp; O N T I V E R O S</h1>
 <p align="center">───────────────</p>
 
@@ -83,15 +83,15 @@ Currently building the internal software platform used across 11 branches at **H
 
 ## Featured Projects
 
-Production systems built at Herinox (private repositories) and my machine learning thesis project.
+Production systems built at Herinox and my machine learning thesis project. Projects marked 🔒 are private company code.
 
-**Sales Reporting Platform** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `AWS`<br>
+**Sales Reporting Platform** &nbsp;🔒 &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `AWS`<br>
 Web application that automates the commercial division's sales report from SAP data. Sales, budget, profitability, customer and price–volume analysis for the sales director and branch managers, with role-based access by branch and KPIs validated against the official monthly figures.
 
-**Quotation Management System** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`<br>
+**Quotation Management System** &nbsp;🔒 &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`<br>
 Internal platform for 11 branches. Tracks quote response times in business hours across time zones, and quoted vs. confirmed revenue by branch, buyer, rep and client. Alembic migrations, background scheduler, pytest against real PostgreSQL, CI/CD with gated production deploys.
 
-**Automated Pricing Engine** &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`<br>
+**Automated Pricing Engine** &nbsp;🔒 &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`<br>
 Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI + React, keeping the original as a parity test to guarantee identical output.
 
 **[Melanoma Triage](https://github.com/Edgar-Ontiveros/melanoma-triage)** &nbsp;·&nbsp; `PyTorch` `Lightning` `timm` `ONNX Runtime` `FastAPI` `Docker`<br>
