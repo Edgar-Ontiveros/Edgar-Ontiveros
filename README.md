@@ -83,18 +83,18 @@ Currently building the internal software platform used across 11 branches at **H
 
 ## 🚀 Featured Projects
 
-Systems currently running in production.
+Systems currently running in production. Projects marked 🔒 are private company code.
 
-**[Quotation Management System](https://github.com/Edgar-Ontiveros/proyecto-cotizaciones)** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`
+**Quotation Management System** &nbsp;🔒 &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`<br>
 Internal platform for 11 branches. Tracks quote response times in business hours across time zones, and quoted vs. confirmed revenue by branch, buyer, rep and client. Alembic migrations, background scheduler, pytest against real PostgreSQL, CI/CD with gated production deploys.
 
-**[Automated Pricing Engine](https://github.com/Edgar-Ontiveros/auto-precios)** &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`
+**Automated Pricing Engine** &nbsp;🔒 &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`<br>
 Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI + React, keeping the original as a parity test to guarantee identical output.
 
-**[SAP Article Code Generator](https://github.com/Edgar-Ontiveros/Generador-de-Codigos)** &nbsp;·&nbsp; `FastAPI` `scikit-learn` `RapidFuzz` `AWS EC2`
+**[SAP Article Code Generator](https://github.com/Edgar-Ontiveros/Generador-de-Codigos)** &nbsp;·&nbsp; `FastAPI` `scikit-learn` `RapidFuzz` `AWS EC2`<br>
 Infers SAP code, product hierarchy, unit of measure and weight for new items from the most similar historical records. Multi-stage Docker build deployed on EC2 with persistent EBS storage and idempotent database rebuilds.
 
-**[Purchase Order Processor](https://github.com/Edgar-Ontiveros/Ordenes-Compra)** &nbsp;·&nbsp; `FastAPI` `Pydantic` `lxml` `pdfplumber`
+**[Purchase Order Processor](https://github.com/Edgar-Ontiveros/Ordenes-Compra)** &nbsp;·&nbsp; `FastAPI` `Pydantic` `lxml` `pdfplumber`<br>
 Parses CFDI XML invoices and PDF proformas into SAP-ready Excel, converting measurement units and grouping line items. Layered architecture with a supplier-parser Protocol, pure domain functions, strict mypy typing and 97 tests.
 
 ---
