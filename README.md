@@ -30,7 +30,7 @@ Machine learning goes in where it solves something real — forecasting, classif
 
 Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously worked on automation and production data systems in the **aerospace industry** at Safran Aerosystems.
 
-I also take on freelance projects through **[Edgar-Ontiveros](https://github.com/Edgar-Onti)**.
+I also take on freelance projects through **[EO Technologies](https://github.com/Edgar-Onti)**.
 
 ---
 
