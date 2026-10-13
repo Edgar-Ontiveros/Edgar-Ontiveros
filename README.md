@@ -1,71 +1,120 @@
-# Edgar Ontiveros
+<p align="center"><sub><sub>E &middot; O</sub></sub></p>
+<h1 align="center">E D G A R &nbsp;&nbsp; O N T I V E R O S</h1>
+<p align="center">───────────────</p>
 
-**Machine Learning Engineer and Software Developer** · Physics Engineer · Chihuahua, Mexico
+<div align="center">
 
-I design, build and deploy production systems: REST APIs, web applications and the machine learning models inside them. I am currently building the internal software platform used across the 11 branches of [Herinox](https://github.com/Herinox), covering sales reporting, quoting, pricing and purchasing on top of SAP data. Before that, I worked on automation and production data systems in the aerospace industry at Safran Aerosystems.
+### Machine Learning Engineer &nbsp;|&nbsp; Developer
 
-I also take on freelance projects through my independent practice, [Edgar Ontiveros](https://github.com/Edgar-Onti).
+<sub>Physics Engineer · Chihuahua, Mexico</sub>
 
-[Website](https://edgar-ontiveros.com) · [LinkedIn](https://www.linkedin.com/in/edgaronti) · [Email](mailto:edgarontiverosfm@gmail.com)
+<br>
 
----
+I design, build and deploy production systems — APIs, web applications and the models inside them.
 
-## Featured projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-edgar--ontiveros.com-22D3EE?style=for-the-badge&logo=safari&logoColor=black)](https://edgar-ontiveros.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Ontiveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaronti)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarontiverosfm@gmail.com)
 
-### Sales Reporting Platform
-
-*Herinox · In production · Private repository*
-
-Web application that automates the commercial division's sales report from SAP data. It gives the sales director and branch managers sales, budget, profitability, customer and price–volume analysis, with role-based access by branch.
-
-`FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `Docker` `AWS`
-
-### Quotation Management System
-
-*Herinox · In production · Private repository*
-
-Internal platform where sales reps in 11 branches request special-order quotes from purchasing. It measures response times in business hours across time zones and tracks quoted versus confirmed revenue by branch, buyer, sales rep and customer. Includes database migrations, a background scheduler, tests against a real PostgreSQL instance and CI/CD.
-
-`FastAPI` `SQLAlchemy` `PostgreSQL` `React` `TypeScript` `Mantine` `Docker` `GitHub Actions`
-
-### Automated Pricing Engine
-
-*Herinox · In production · Private repository*
-
-Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI and React, keeping the original pipeline frozen as a parity reference so the new version produces identical output.
-
-`FastAPI` `pandas` `openpyxl` `React` `Mantine` `Docker`
-
-### [Melanoma Triage](https://github.com/Edgar-Ontiveros/melanoma-triage)
-
-*Thesis project · Public repository*
-
-Skin-lesion classifier trained on ISIC 2020. EfficientNetV2-S was selected from a model comparison with patient-level splits and a locked test set. Grad-CAM explainability is validated with sanity checks, and the model is packaged in ONNX with verified PyTorch parity, served by a FastAPI and ONNX Runtime API in a 152 MB Docker image with a React interface. Clinical evaluation is in progress. It is an educational triage aid, not a diagnostic device.
-
-`PyTorch` `Lightning` `timm` `Hydra` `ONNX Runtime` `FastAPI` `React` `Docker` `GitHub Actions`
-
-### More projects
-
-- [SAP Article Code Generator](https://github.com/Edgar-Ontiveros/Generador-de-Codigos): infers SAP codes, product hierarchy, unit of measure and weight for new items from similar historical records. FastAPI, scikit-learn, RapidFuzz, AWS EC2.
-- [Purchase Order Processor](https://github.com/Edgar-Ontiveros/Ordenes-Compra): parses CFDI XML invoices and PDF proformas into SAP-ready Excel files. FastAPI, Pydantic, lxml, pdfplumber; 97 tests.
-- [Sales Discount Analytics](https://github.com/Edgar-Ontiveros/app-descuentos): ETL pipeline and Streamlit dashboard reconciled to the cent against the manual Excel report. pandas, Streamlit, Plotly.
-- [edgar-ontiveros.com](https://github.com/Edgar-Ontiveros/edgar-ontiveros.com): personal website. React, TypeScript, Vite, Tailwind CSS, Cloudflare Pages.
+</div>
 
 ---
 
-## Technical stack
+## About Me
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, TypeScript, SQL |
-| Backend | FastAPI, Pydantic, SQLAlchemy, Alembic, Django |
-| Databases | PostgreSQL, SAP HANA, SQLite, Supabase |
-| Machine learning | PyTorch, Lightning, timm, scikit-learn, TensorFlow, Keras, ONNX Runtime |
-| Data and BI | pandas, NumPy, Streamlit, Power BI |
-| Frontend | React, Vite, Tailwind CSS, Mantine, TanStack Query |
-| Cloud and DevOps | AWS, Docker, GitHub Actions, nginx, Linux |
-| Quality | pytest, Ruff, mypy |
+I build and ship production software. I design REST APIs in **FastAPI**, model relational data in **PostgreSQL**, build interfaces in **React**, and deploy on **AWS** with **Docker** and CI/CD pipelines.
+
+Machine learning goes in where it solves something real — forecasting, classification, similarity matching, CNNs — always served as an application people use daily, never as a notebook that stops at the analysis.
+
+Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously worked on automation and production data systems in the **aerospace industry** at Safran Aerosystems.
 
 ---
 
-Open to freelance projects and new opportunities. Reach me by [email](mailto:edgarontiverosfm@gmail.com) or through [my website](https://edgar-ontiveros.com).
+## What I Work With
+
+### Backend & APIs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Machine Learning & Data
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+### Testing & Tools
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
+
+## Featured Projects
+
+Production systems built at Herinox (private repositories) and my machine learning thesis project.
+
+**Sales Reporting Platform** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `SQLAlchemy` `React` `TypeScript` `Docker` `AWS`<br>
+Web application that automates the commercial division's sales report from SAP data. Sales, budget, profitability, customer and price–volume analysis for the sales director and branch managers, with role-based access by branch and KPIs validated against the official monthly figures.
+
+**Quotation Management System** &nbsp;·&nbsp; `FastAPI` `PostgreSQL` `React` `Docker` `GitHub Actions`<br>
+Internal platform for 11 branches. Tracks quote response times in business hours across time zones, and quoted vs. confirmed revenue by branch, buyer, rep and client. Alembic migrations, background scheduler, pytest against real PostgreSQL, CI/CD with gated production deploys.
+
+**Automated Pricing Engine** &nbsp;·&nbsp; `FastAPI` `React` `Docker` `Pandas`<br>
+Turns SAP master data into branch price lists, cost sheets and variance reports under supplier-priority rules and fail-closed validation. Migrated from a Streamlit prototype to FastAPI + React, keeping the original as a parity test to guarantee identical output.
+
+**[Melanoma Triage](https://github.com/Edgar-Ontiveros/melanoma-triage)** &nbsp;·&nbsp; `PyTorch` `Lightning` `timm` `ONNX Runtime` `FastAPI` `Docker`<br>
+Thesis project: skin-lesion classifier trained on ISIC 2020. EfficientNetV2-S with patient-level splits, Grad-CAM explainability and an ONNX model served by a FastAPI + ONNX Runtime API in a 152 MB Docker image, with a React interface. Educational triage aid, not a diagnostic device.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Edgar-Ontiveros">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Ontiveros&theme=nord_dark" alt="Profile Details" />
+</a>
+
+<a href="https://github.com/Edgar-Ontiveros">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edgar-Ontiveros&theme=nord_dark" alt="Stats" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to opportunities — reach out via <a href="mailto:edgarontiverosfm@gmail.com">email</a> or <a href="https://www.linkedin.com/in/edgaronti">LinkedIn</a>, or visit my <a href="https://edgar-ontiveros.com">website</a>.</sub>
+</div>
