@@ -13,6 +13,7 @@
 I design, build and deploy production systems — APIs, web applications and the models inside them.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-edgar--ontiveros.com-22D3EE?style=for-the-badge&logo=safari&logoColor=black)](https://edgar-ontiveros.com)
+[![Resume](https://img.shields.io/badge/Resume-Download%20CV-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=black)](https://edgar-ontiveros.com/cv/edgar-ontiveros-cv.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Ontiveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaronti)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarontiverosfm@gmail.com)
 
@@ -27,6 +28,8 @@ I build and ship production software. I design REST APIs in **FastAPI**, model r
 Machine learning goes in where it solves something real — forecasting, classification, similarity matching, CNNs — always served as an application people use daily, never as a notebook that stops at the analysis.
 
 Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously worked on automation and production data systems in the **aerospace industry** at Safran Aerosystems.
+
+I also take on freelance projects through **[Edgar-Ontiveros](https://github.com/Edgar-Onti)**.
 
 ---
 
@@ -104,11 +107,17 @@ Thesis project: skin-lesion classifier trained on ISIC 2020. EfficientNetV2-S wi
 <div align="center">
 
 <a href="https://github.com/Edgar-Ontiveros">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Ontiveros&theme=nord_dark" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Ontiveros&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgar-Ontiveros&theme=nord_bright" alt="Profile Details" />
+  </picture>
 </a>
 
 <a href="https://github.com/Edgar-Ontiveros">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edgar-Ontiveros&theme=nord_dark" alt="Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edgar-Ontiveros&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edgar-Ontiveros&theme=nord_bright" alt="Stats" />
+  </picture>
 </a>
 
 </div>
