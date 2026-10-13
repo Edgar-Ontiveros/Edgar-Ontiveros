@@ -1,5 +1,7 @@
-<p align="center"><a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a></p>
-<h1 align="center">E D G A R &nbsp;&nbsp; O N T I V E R O S</h1>
+<h1 align="center">
+  <a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a><br>
+  E D G A R &nbsp;&nbsp; O N T I V E R O S
+</h1>
 <p align="center">───────────────</p>
 
 <div align="center">
@@ -12,10 +14,9 @@
 
 I design, build and deploy production systems — APIs, web applications and the models inside them.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-edgar--ontiveros.com-22D3EE?style=for-the-badge&logo=safari&logoColor=black)](https://edgar-ontiveros.com)
-[![Resume](https://img.shields.io/badge/Resume-Download%20CV-F59E0B?style=for-the-badge&logo=readdotcv&logoColor=black)](https://edgar-ontiveros.com/cv/edgar-ontiveros-cv.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edgar%20Ontiveros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaronti)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarontiverosfm@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgNiAyOC44IDI0Ij48ZyBzdHJva2U9IiMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMy42IiBmaWxsPSJub25lIj48cGF0aCBkPSJNMTEuNCA3LjhINC44djE2LjRoNi42TTQuOCAxNmg1LjYiLz48Y2lyY2xlIGN4PSIyMiIgY3k9IjE2IiByPSI3LjIiLz48L2c%2BPGNpcmNsZSBjeD0iMjkuNCIgY3k9IjI3LjYiIHI9IjIuNCIgZmlsbD0iIzIyRDNFRSIvPjwvc3ZnPgo%3D)](https://edgar-ontiveros.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iMy41IiBmaWxsPSIjMjJEM0VFIi8%2BPGcgZmlsbD0iIzBBMEUxQSI%2BPGNpcmNsZSBjeD0iNyIgY3k9IjYuOSIgcj0iMS44Ii8%2BPHJlY3QgeD0iNS40IiB5PSI5LjYiIHdpZHRoPSIzLjIiIGhlaWdodD0iOS40Ii8%2BPHBhdGggZD0iTTEwLjYgOS42aDN2MS40Yy42LTEgMS44LTEuNyAzLjMtMS43IDIuNSAwIDMuNiAxLjYgMy42IDQuNFYxOWgtMy4ydi00LjhjMC0xLjQtLjUtMi4yLTEuNi0yLjItMS4yIDAtMS45LjgtMS45IDIuMlYxOWgtMy4yeiIvPjwvZz48L3N2Zz4K)](https://www.linkedin.com/in/edgaronti)
+[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:edgarontiverosfm@gmail.com)
 
 </div>
 
