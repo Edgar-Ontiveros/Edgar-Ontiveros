@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a><br>
-  E D G A R &nbsp;&nbsp; O N T I V E R O S
-</h1>
-<p align="center">─────────────────────────────────────</p>
+<p align="center"><a href="https://edgar-ontiveros.com"><img src="assets/header.svg" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a></p>
 
 <div align="center">
   <picture>
