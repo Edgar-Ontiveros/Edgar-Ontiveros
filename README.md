@@ -1,20 +1,16 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,100:22D3EE&height=200&section=header&text=Edgar%20Ontiveros&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%C2%B7%20Developer&descAlignY=55&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,100:22D3EE&height=200&section=header&text=Edgar%20Ontiveros&fontSize=50&fontColor=0A0E1A&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%C2%B7%20Developer&descAlignY=55&descAlign=50">
-    <img alt="Edgar Ontiveros · Machine Learning Engineer · Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,100:22D3EE&height=200&section=header&text=Edgar%20Ontiveros&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%C2%B7%20Developer&descAlignY=55&descAlign=50">
-  </picture>
-</div>
+<h1 align="center">
+  <a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a><br><br>
+  E D G A R &nbsp;&nbsp; O N T I V E R O S
+</h1>
+<p align="center">───────────────</p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E_Designing+APIs+with+FastAPI...;%3E_Training+models+with+PyTorch...;%3E_Deploying+to+production...;%3E_From+Vision+to+Execution.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E7490&center=true&vCenter=true&width=600&lines=%3E_Designing+APIs+with+FastAPI...;%3E_Training+models+with+PyTorch...;%3E_Deploying+to+production...;%3E_From+Vision+to+Execution.">
-    <img alt="From Vision to Execution." src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E_Designing+APIs+with+FastAPI...;%3E_Training+models+with+PyTorch...;%3E_Deploying+to+production...;%3E_From+Vision+to+Execution.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Edgar-Ontiveros/Edgar-Ontiveros/raw/main/assets/typing-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Edgar-Ontiveros/Edgar-Ontiveros/raw/main/assets/typing-light.svg">
+    <img alt="Machine Learning Engineer · Full Stack Developer · Cloud Engineer" src="https://github.com/Edgar-Ontiveros/Edgar-Ontiveros/raw/main/assets/typing-dark.svg">
   </picture>
 </div>
-
-<p align="center"><a href="https://edgar-ontiveros.com"><img src="assets/logo.svg" width="56" alt="Edgar Ontiveros — edgar-ontiveros.com" /></a><br></p>
 
 <div align="center">
 
