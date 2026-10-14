@@ -32,9 +32,9 @@ I design, build and deploy production systems — APIs, web applications and the
 
 I build and ship production software. I design REST APIs in **FastAPI**, model relational data in **PostgreSQL**, build interfaces in **React**, and deploy on **AWS** with **Docker** and CI/CD pipelines.
 
-Machine learning goes in where it solves something real — forecasting, classification, similarity matching, CNNs — always served as an application people use daily, never as a notebook that stops at the analysis.
+With a background in **Physics Engineering**, I treat machine learning as a tool for real business problems: forecasting, classification, similarity matching and computer vision, always delivered as an application people use every day, not a notebook that stops at the analysis.
 
-Currently building the internal software platform used across 11 branches at **Herinox**: quoting, pricing, purchasing and SAP data automation. Previously worked on automation and production data systems in the **aerospace industry** at Safran Aerosystems.
+At **Herinox**, I lead software development for the internal platform used across its 11 branches, covering sales reporting, quoting, pricing and purchasing, integrated with SAP. Before that, I worked in **aerospace manufacturing** at Safran Aerosystems, applying Python and machine learning to production processes.
 
 I also take on freelance projects through **[EO Technologies](https://github.com/Edgar-Onti)**.
 
